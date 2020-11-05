@@ -9,3 +9,5 @@ app.get('/', (solicitud, respuesta) => {
 app.listen(3000, ()=>{
     console.log('el servidor ya esta encendido http://localhost:3000');
 })
+
+console.log('hola2')
